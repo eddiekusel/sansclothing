@@ -1,0 +1,17 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl AV10_Skin
+Ka 0.205706 0.205706 0.205706
+Kd 0.800000 0.800000 0.800000
+Ks 0.081314 0.081314 0.081314
+Ns 36.000019
+illum 2
+d 1.000000
+map_Ka AV10_Skin_Diffuse_795059.jpg
+map_Kd AV10_Skin_Diffuse_795059.jpg
+newmtl M01-A_Cotton_(Light_Grey)
+Ka 0.203689 0.203689 0.203689
+Kd 0.792157 0.792157 0.792157
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
